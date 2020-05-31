@@ -7,4 +7,8 @@ The application is made up of HTML ,CSS Express.js(Web Servers) and Node.js.
 - Go to the web browser and type localhost:3000 and get the weather application running.
 
 # Requirments
-- 
+- Laptop with Node.js installed 
+- Require Module
+- Path Module
+- Express Module
+- Hbs Module
